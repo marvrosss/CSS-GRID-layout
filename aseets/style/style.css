@@ -24,6 +24,8 @@ aside{
 main{
    background-color: rgb(68, 68, 68);
    display: grid;
+   justify-items: center;
+   align-items: center;
    grid-template-columns: repeat(3, 1fr); 
    gap: 20px; 
 }
